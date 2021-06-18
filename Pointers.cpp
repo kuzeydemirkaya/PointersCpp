@@ -29,3 +29,4 @@ int main()
     cout<<"1. veri: "<<*p1<<endl;
  
 }
+
