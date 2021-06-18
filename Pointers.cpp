@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -28,5 +29,3 @@ int main()
     cout<<"1. veri: "<<*p1<<endl;
  
 }
-
-
